@@ -1,4 +1,4 @@
-# Introduce myself
+# Nice to meet you !
 ✍🏻 I'm Front-End Developer :)<br>⭐️ I use javaScript, React, TypeScript.<br>🧠 I like to do state management
 
 ## Socials:
