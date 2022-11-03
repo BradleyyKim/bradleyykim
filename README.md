@@ -6,4 +6,4 @@
 
 ### This is my Resume.
 
-<a href="https://bradleyykim.github.io/resume-tailwind/"><strong>Link</strong></a>
+<a href="https://bradleyykim.github.io/resume-tailwind/" target="_blank"><strong>Link</strong></a>
