@@ -7,4 +7,6 @@
 
 ### This is my Resume.
 
-<a href="https://bradleyykim.github.io/resume-tailwind/" target="_blank"><strong>Link</strong></a>
+<a href="https://bradleyykim.github.io/resume-tailwind/" target="_blank"><strong>tailwindCSS web resume</strong></a>
+<a href="https://drive.google.com/file/d/1NO0DAy3xV9072YIdahGUbwbCQPIw-WBT/view" target="_blank"><strong>notion pdf resume</strong></a>
+
