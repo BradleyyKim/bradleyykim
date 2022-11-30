@@ -7,8 +7,7 @@
 
 ### This is my Resume.
 
-<a href="https://drive.google.com/file/d/1NO0DAy3xV9072YIdahGUbwbCQPIw-WBT/view"><strong>notion pdf resume</strong></a>
-<a href="https://drive.google.com/file/d/1NO0DAy3xV9072YIdahGUbwbCQPIw-WBT/view" download>(download)</a></br>
+<a href="https://drive.google.com/file/d/1NO0DAy3xV9072YIdahGUbwbCQPIw-WBT/view"><strong>notion pdf resume</strong></a></br>
 <a href="https://bradleyykim.github.io/resume-tailwind/"><strong>tailwindCSS web resume</strong></a></br>
 <p>(Github is not supporting target attribute. if you wanna open resume on new Tab,</p>
 <p>Do CTRL+click (on Windows and Linux) or CMD+click (on MacOS))</p></br>
