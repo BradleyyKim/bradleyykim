@@ -9,5 +9,6 @@
 
 <a href="https://bradleyykim.github.io/resume-tailwind/" target="_blank" ><strong>tailwindCSS web resume</strong></a></br>
 <a href="https://drive.google.com/file/d/1NO0DAy3xV9072YIdahGUbwbCQPIw-WBT/view" target="_blank" ><strong>notion pdf resume</strong></a></br>
-<p>(Github is not supporting target attribute. if you wanna open resume on new Tab, Do CTRL+click (on Windows and Linux) or CMD+click (on MacOS))</p></br>
+<p>(Github is not supporting target attribute. if you wanna open resume on new Tab,</p>
+<p>Do CTRL+click (on Windows and Linux) or CMD+click (on MacOS))</p></br>
 <p>Thanks.</p>
